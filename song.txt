@@ -14,6 +14,12 @@ His will they'll take away
 What I've felt
 What I've known
 Never shined through in what I've shown
+<<<<<<< HEAD
 Never be
 Never see
 Won't see what might have been
+=======
+Never free
+Never me
+So I dub thee unforgiven
+>>>>>>> feature
